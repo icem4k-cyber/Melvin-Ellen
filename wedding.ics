@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Melvin and Ellen Wedding//EN
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:melvin-ellen-wedding-20261108@example.com
+DTSTAMP:20261014T031200Z
+DTSTART;TZID=Africa/Lusaka:20261108T100000
+DTEND;TZID=Africa/Lusaka:20261108T120000
+SUMMARY:Wedding Ceremony - Melvin and Ellen
+LOCATION:Olympia SDA Church, Olympia, Lusaka, Zambia
+DESCRIPTION:Wedding ceremony for Melvin M. Choongo and Ellen Nalungwe. Reception at 16:00 at Fallsway Events, Thabo Mbeki Road.
+END:VEVENT
+BEGIN:VEVENT
+UID:melvin-ellen-reception-20261108@example.com
+DTSTAMP:20261014T031200Z
+DTSTART;TZID=Africa/Lusaka:20261108T160000
+DTEND;TZID=Africa/Lusaka:20261108T230000
+SUMMARY:Wedding Reception - Melvin and Ellen
+LOCATION:Fallsway Events, Thabo Mbeki Road, Lusaka, Zambia
+END:VEVENT
+END:VCALENDAR
